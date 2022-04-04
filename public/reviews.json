@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Jhanker Mahbub",
+        "img" : "https://phero-web.nyc3.cdn.digitaloceanspaces.com/website-prod-images/public/files/1625573122618.png",
+        "profession": "CEO, Programming Hero",
+        "comment": "LapPack is a very useful website to get the latest updates about the latest laptops. I really appreciate it! 💖",
+        "rating" : 5.0
+    },
+    {
+        "id": 2,
+        "name": "Shajedul Karim",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeQ-HkOk0nyWwdR6GNhI19KyuIDOyg-_w_tQ&usqp=CAU",
+        "profession": "COO, Programming Hero",
+        "comment": "LapPack is an awesome website. Loved it 💙",
+        "rating" : 4.5
+    },
+    {
+        "id": 3,
+        "name": "Tamim Vaiya",
+        "img" : "https://www.kindpng.com/picc/m/22-223941_transparent-avatar-png-male-avatar-icon-transparent-png.png",
+        "profession": "Social media associate, Programming Hero",
+        "comment": "LapPack is good but there should be more data in it 💨",
+        "rating" : 4.0
+    },
+    {
+        "id": 4,
+        "name": "Nasif Rahman",
+        "img" : "https://st2.depositphotos.com/3557671/11164/v/950/depositphotos_111644880-stock-illustration-man-avatar-icon-of-vector.jpg",
+        "profession": "Admin in command, Programming Hero",
+        "comment": "The website design is so nice and it is useful too 👌" ,
+        "rating" : 4.8
+    },
+    {
+        "id": 5,
+        "name": "Bappy",
+        "img": "https://previews.123rf.com/images/metelsky/metelsky1904/metelsky190400021/121859823-male-avatar-icon-or-portrait-handsome-young-man-face-with-beard-vector-illustration-.jpg",
+        
+        "profession": "Admin in command, Programming Hero",
+        "comment": "Lol! There are so many similar websites in the web which are way better than this one. Why would I Use this one? 👊",
+        "rating" : 1.0
+    },
+    {
+        "id": 6,
+        "name": "Marzan",
+        "img" : "https://freerangestock.com/sample/116135/handsome-man-avatar-.jpg",
+        "profession": "Moderator, Programming Hero",
+        "comment": "I found this website on the web and its really helpful 🍿",
+        "rating" : 4.6
+    }
+]

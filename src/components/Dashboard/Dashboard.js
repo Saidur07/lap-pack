@@ -23,7 +23,7 @@ const Dashboard = () => {
   }, []);
   return (
     <div>
-      <h1 className="text-4xl my-8 text-center"> Dahsboard</h1>
+      <h1 className="text-4xl my-8 text-center"> Dashboard</h1>
       <hr className="container mx-auto w-1/3" />
       <div className="grid grid-cols-1 lg:grid-cols-2 place-items-center">
         <div>
