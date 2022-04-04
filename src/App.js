@@ -6,7 +6,6 @@ import Reviews from "./components/Reviews/Reviews";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Blogs from "./components/Blogs/Blogs";
 import About from "./components/About/About";
-import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -19,7 +18,6 @@ function App() {
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         <Route path="/about" element={<About></About>}></Route>
       </Routes>
-      <Footer></Footer>
     </div>
   );
 }
